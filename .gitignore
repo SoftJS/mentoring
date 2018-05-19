@@ -1,3 +1,5 @@
+/node_modules
+/dist
 /build/
 /deploy/
 /benchpress-build/
@@ -7,10 +9,10 @@ test.disable
 regression/temp*.html
 performance/temp*.html
 .idea/workspace.xml
+/.idea
 *~
 *.swp
 angular.js.tmproj
-node_modules/
 angular.xcodeproj
 .idea
 *.iml
